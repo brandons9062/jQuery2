@@ -24,7 +24,7 @@ With this to-do app, users will be able to:
 First, fork and clone this repo, so that we can access this README during our development. For the sake of simplicity, we have created the index.html file and added some markup for the ui. So, no need to change it yet.
 
 Now, let's create a folder called 'app.' This is where we will store the guts of our app. Inside the app folder let's make a folder called 'scripts.' This is where we will store all our Javascript.
-
+ 
 Inside the js folder we will create our main Javascript named 'scripts.js'.
 
 Now that we've made our basic files, we want to get them all hooked together in our index.html file.
@@ -32,7 +32,7 @@ Now that we've made our basic files, we want to get them all hooked together in 
 *Remember: a lot of times errors in the beginning of a project are because the files are not properly linked.
 
 *Remember: your browser will read your index.html from top-to-bottom, left-to-right. This means if you put your jQuery under your scripts.js file you will end up with an error.*
-
+ 
 
 #Step 2
 ###Time For jQuery
